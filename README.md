@@ -13,7 +13,7 @@ Checkout this [notebook](https://github.com/VeraDidenko/pivot-jupyter/blob/maste
 Download the project from the repository or clone it with the following command:
 
 ```bash
-git clone https://github.com/VeraDidenko/pivot-jupyter
+git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 ```
 
 Then upload the `WebDataRocks_in_Jupyter_Notebook.ipynb` file to the Jupyter Notebook and run it. To run the notebook, select the `Cell` section in the navigation bar and click on the `Run all` command.
