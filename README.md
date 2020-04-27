@@ -7,7 +7,7 @@ This repository holds the source code for a simple [Jupyter Notebook](https://ju
 
 You will need Jupyter Notebook to run this project. You can either use the web version of it or [install Jupyter Notebook](https://jupyter.org/install.html).
 
-Checkout this [notebook](https://github.com/VeraDidenko/pivot-jupyter/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb)!
+Checkout this [notebook](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb)!
 
 ## Installation & Usage
 Download the project from the repository or clone it with the following command:
