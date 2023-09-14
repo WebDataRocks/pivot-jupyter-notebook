@@ -14,7 +14,7 @@ Check out this [notebook](https://nbviewer.jupyter.org/github/WebDataRocks/pivot
 ```bash
 git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 ```
-2. Upload the `WebDataRocks_in_Jupyter_Notebook.ipynb` file to the Jupyter Notebook
+2. Upload the `WebDataRocks_in_Jupyter_Notebook.ipynb` file to the Jupyter Notebook.
 3. In the navigation bar select `Run` > `Run all cells`.
 
 ## Learn more
