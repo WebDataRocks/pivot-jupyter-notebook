@@ -1,7 +1,7 @@
 # WebDataRocks integration with Jupyter Notebook
 
 This repository holds the source code for a simple [Jupyter Notebook](https://jupyter.org/) and [WebDataRocks](https://www.webdatarocks.com/) project.
-Check out this [notebook](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb)!
+Check out this [Notebook example](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb)!
 
 ## Prerequisites
 
