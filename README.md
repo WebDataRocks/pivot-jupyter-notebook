@@ -15,7 +15,7 @@ This project is also available as a [live demo](https://nbviewer.jupyter.org/git
 git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 ```
 2. Upload the `WebDataRocks_in_Jupyter_Notebook.ipynb` file to the Jupyter Notebook.
-3. In the navigation bar, select `Run` > `Run all cells`.
+3. In the navigation bar, select **Run** > **Run All Cells**.
 
 ## Related docs
 For details on how to integrate WebDataRocks into existing Jupyter Notebook projects, check out the [integration with Jupyter Notebook](https://www.webdatarocks.com/doc/integration-with-jupyter-notebook/).
