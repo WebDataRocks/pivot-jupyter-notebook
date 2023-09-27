@@ -2,7 +2,7 @@
 
 This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Jupyter Notebook](https://jupyter.org/).
 
-This project is also available as [a live demo](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb).
+This project is also available as a [live demo](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb).
 
 ## Prerequisites
 
