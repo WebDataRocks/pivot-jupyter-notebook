@@ -17,7 +17,9 @@ git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 3. In the navigation bar, select **Run** > **Run All Cells**.
 
 ## Related docs
+
 For details on how to integrate WebDataRocks into existing Jupyter projects, check out the [integration with Jupyter](https://www.webdatarocks.com/doc/integration-with-jupyter-notebook/).
 
 ## Support
-Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+
+For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
