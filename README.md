@@ -1,6 +1,7 @@
 # Example of integrating WebDataRocks with Jupyter
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/jupyter.png)](https://www.webdatarocks.com/?r=rm_jupyter)
 
-This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with [Jupyter](https://jupyter.org/).
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/?r=rm_jupyter) with [Jupyter](https://jupyter.org/).
 
 This project is also available as a [live demo](https://nbviewer.jupyter.org/github/WebDataRocks/pivot-jupyter-notebook/blob/master/WebDataRocks_in_Jupyter_Notebook.ipynb).
 
@@ -18,8 +19,8 @@ git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Jupyter projects, check out the [integration with Jupyter](https://www.webdatarocks.com/doc/integration-with-jupyter-notebook/).
+For details on how to integrate WebDataRocks into existing Jupyter projects, check out the [integration with Jupyter](https://www.webdatarocks.com/doc/integration-with-jupyter-notebook/?r=rm_jupyter).
 
 ## Support
 
-For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
+For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
