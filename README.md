@@ -21,6 +21,12 @@ git clone https://github.com/WebDataRocks/pivot-jupyter-notebook.git
 
 For details on how to integrate WebDataRocks into existing Jupyter projects, check out the [integration with Jupyter](https://www.webdatarocks.com/doc/integration-with-jupyter-notebook/?r=rm_jupyter).
 
+## WebDataRocks licensing
+
+This WebDataRocks sample project is released under the MIT license (free and open-source).
+
+[WebDataRocks](https://www.webdatarocks.com/?r=rm_jupyter) is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=rm_jupyter).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
