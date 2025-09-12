@@ -1,5 +1,8 @@
 # Example of integrating WebDataRocks with Jupyter
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/jupyter.png)](https://www.webdatarocks.com/?r=rm_jupyter)
+Website: [webdatarocks.com](https://www.webdatarocks.com?r=rm_jupyter)
+
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/?r=rm_jupyter) with [Jupyter](https://jupyter.org/).
 
